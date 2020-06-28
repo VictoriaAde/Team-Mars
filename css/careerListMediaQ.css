@@ -170,7 +170,7 @@
 	.flex-ul ul {
 		display: flex;
 		flex-direction: column;
-		min-width: 60%;
+		width: 327px;
 		padding: 0;
 		text-align: center;
 		margin: 0 auto;
